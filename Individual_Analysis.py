@@ -9,6 +9,7 @@ import streamlit as st
 #import plotly.express as px
 import pandas as pd
 import numpy as np
+import typing_extensions
 
 import matplotlib
 import matplotlib.pyplot as plt
